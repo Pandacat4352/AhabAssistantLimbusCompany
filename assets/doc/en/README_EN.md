@@ -242,7 +242,7 @@ down.
 
 ```ps1
 # Clone the repository
-git clone https://github.com/KIYI671/AhabAssistantLimbusCompany
+git clone https://github.com/Pandacat4352/AhabAssistantLimbusCompany
 cd AhabAssistantLimbusCompany
 # Download dependencies via uv (uv tool needs to be installed separately)
 uv sync --frozen
@@ -256,7 +256,7 @@ git pull
 
 ```ps1
 # Clone the repository
-git clone https://github.com/KIYI671/AhabAssistantLimbusCompany
+git clone https://github.com/Pandacat4352/AhabAssistantLimbusCompany
 cd AhabAssistantLimbusCompany
 # Please use a Python binary with version higher than 3.13 (with GIL)
 pip install -r requirements.txt
